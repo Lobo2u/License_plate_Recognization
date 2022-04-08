@@ -1,0 +1,15 @@
+# ninja log v5
+2	2852	1648539128603855248	CMakeFiles/License_Plate_Recognition.dir/refine.cpp.o	b0d4871c672b59e1
+2738	3051	1648654557970949848	License_Plate_Recognition	46317f59687f43ce
+3	4064	1648628246420480393	CMakeFiles/License_Plate_Recognition.dir/kNN.cpp.o	83dd28cb1b783d0b
+4059	4342	1648393982450651860	getnum	6e69fd620f3c9a3e
+2	2616	1648628253042829707	CMakeFiles/License_Plate_Recognition.dir/main.cpp.o	bfb3cb4f4c7d41c2
+2	2737	1648654557658976087	CMakeFiles/License_Plate_Recognition.dir/classify_objects.cpp.o	5210774287e8e914
+7	3424	1648569946022189099	CMakeFiles/License_Plate_Recognition.dir/preprocessing.cpp.o	11f4dcc3265a9140
+5	3271	1648572382600398147	CMakeFiles/License_Plate_Recognition.dir/SVM.cpp.o	74d07871598f804e
+6	3073	1648572382400407367	CMakeFiles/License_Plate_Recognition.dir/compare_plate.cpp.o	a053caed41a3bc37
+3	4068	1648655343231291405	CMakeFiles/License_Plate_Recognition.dir/main.cpp.o	bfb3cb4f4c7d41c2
+2	4117	1648655343283290259	CMakeFiles/License_Plate_Recognition.dir/classify_objects.cpp.o	5210774287e8e914
+4117	4954	1648655344119271834	License_Plate_Recognition	46317f59687f43ce
+2	2828	1648655408065928613	CMakeFiles/License_Plate_Recognition.dir/classify_objects.cpp.o	5210774287e8e914
+2828	3172	1648655408409921728	License_Plate_Recognition	46317f59687f43ce
